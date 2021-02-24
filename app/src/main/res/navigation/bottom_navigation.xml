@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/bottom_navigation"
+    app:startDestination="@id/homeMapsFragment">
+
+    <fragment
+        android:id="@+id/homeMapsFragment"
+        android:name="com.example.proiect.fragments.HomeMapsFragment"
+        android:label="fragment_home_maps"
+        tools:layout="@layout/fragment_home_maps" />
+
+    <fragment
+        android:id="@+id/addAttractionFragment"
+        android:name="com.example.proiect.fragments.AddAttractionFragment"
+        android:label="fragment_add_attraction"
+        tools:layout="@layout/fragment_add_attraction" />
+    <fragment
+        android:id="@+id/wishlistFragment"
+        android:name="com.example.proiect.fragments.WishlistFragment"
+        android:label="fragment_wishlist"
+        tools:layout="@layout/fragment_wishlist" />
+    <fragment
+        android:id="@+id/editAttractionFragment"
+        android:name="com.example.proiect.fragments.EditAttractionFragment"
+        android:label="fragment_edit_attraction"
+        tools:layout="@layout/fragment_edit_attraction" />
+    <fragment
+        android:id="@+id/statisticsFragment"
+        android:name="com.example.proiect.fragments.StatisticsFragment"
+        android:label="fragment_statistics"
+        tools:layout="@layout/fragment_statistics" />
+</navigation>

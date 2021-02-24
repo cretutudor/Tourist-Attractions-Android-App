@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeMapsFragment"
+        android:title="@string/nav_map_title_eng"
+        android:icon="@drawable/ic_baseline_map_24"/>
+
+    <item
+        android:id="@+id/addAttractionFragment"
+        android:title="@string/nav_addAttraction_title_eng"
+        android:icon="@drawable/ic_baseline_add_location_24"/>
+
+    <item
+        android:id="@+id/editAttractionFragment"
+        android:title="@string/nav_editAttraction_title_eng"
+        android:icon="@drawable/ic_baseline_edit_24"/>
+
+    <item
+        android:id="@+id/wishlistFragment"
+        android:title="@string/nav_wishlist_title_eng"
+        android:icon="@drawable/ic_baseline_format_list_bulleted_24"/>
+
+    <item
+        android:id="@+id/statisticsFragment"
+        android:title="@string/nav_statisticsFragment_title_eng"
+        android:icon="@drawable/ic_baseline_bar_chart_24"/>
+</menu>

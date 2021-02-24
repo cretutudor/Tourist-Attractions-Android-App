@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="attraction_name_size">16sp</dimen>
+    <dimen name="wishlist_title_size">30sp</dimen>
+    <dimen name="add_attraction_button_elevation">0dp</dimen>
+    <dimen name="padding">10dp</dimen>
+    <dimen name="bigPadding">25dp</dimen>
+    <dimen name="chartHeight">680dp</dimen>
+</resources>

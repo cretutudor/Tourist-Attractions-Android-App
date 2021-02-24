@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "504638544897",
+    "firebase_url": "https://obiective-turistice-romania-default-rtdb.firebaseio.com",
+    "project_id": "obiective-turistice-romania",
+    "storage_bucket": "obiective-turistice-romania.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504638544897:android:db258b3c06a3fe1f65f400",
+        "android_client_info": {
+          "package_name": "com.example.proiect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504638544897-s4a3j2u0s4nefqr35qti4mpiiuccg3rl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM0MNNNWYL6mqv_RrZNd_DtonDc2lUj_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504638544897-s4a3j2u0s4nefqr35qti4mpiiuccg3rl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

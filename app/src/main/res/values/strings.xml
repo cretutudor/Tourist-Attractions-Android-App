@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name_ro">Obiective turistice Romania</string>
+    <string name="app_name_eng">Tourist attractions Romania</string>
+
+    <string name="romanian_language">Română</string>
+    <string name="english_language">English</string>
+
+    <string name="nav_map_title_eng">Map</string>
+    <string name="nav_map_title_ro">Hartă</string>
+    <string name="nav_addAttraction_title_eng">Add</string>
+    <string name="nav_addAttraction_title_ro">Adaugă</string>
+    <string name="nav_editAttraction_title_eng">Edit</string>
+    <string name="nav_editAttraction_title_ro">Modifică</string>
+    <string name="nav_wishlist_title_eng">Wishlist</string>
+    <string name="nav_wishlist_title_ro">De vizitat</string>
+    <string name="nav_statisticsFragment_title_eng">Statistics</string>
+    <string name="nav_statisticsFragment_title_ro">Statistici</string>
+
+    <string name="addAttraction_fragment_name">Name</string>
+    <string name="add_attraction_fragment_name_hint_eng">Name</string>
+    <string name="add_attraction_fragment_name_hint_ro">Nume</string>
+    <string name="add_attraction_fragment_description_hint_eng">Description</string>
+    <string name="add_attraction_fragment_description_hint_ro">Descriere</string>
+    <string name="add_attraction_fragment_lat_hint_eng">Latitude(4 decimals recommended…)</string>
+    <string name="add_attraction_fragment_lat_hint_ro">Latitudine(4 zecimale recomandate…)</string>
+    <string name="add_attraction_fragment_long_hint_eng">Longitude(4 decimals recommended…)</string>
+    <string name="add_attraction_fragment_long_hint_ro">Longitudine(4 zecimale recomandate…)</string>
+    <string name="add_attraction_fragment_county_eng">County</string>
+    <string name="add_attraction_fragment_county_ro">Judeţ</string>
+    <string name="add_attraction_fragment_city_eng">City</string>
+    <string name="add_attraction_fragment_city_ro">Oraş</string>
+
+    <string name="add_attraction_fragment_rb1_eng">Museum/Gallery</string>
+    <string name="add_attraction_fragment_rb1_ro">Muzeu/Galerie</string>
+    <string name="add_attraction_fragment_rb2_eng">Historical building</string>
+    <string name="add_attraction_fragment_rb2_ro">Clădire istorică</string>
+    <string name="add_attraction_fragment_rb3_eng">Square</string>
+    <string name="add_attraction_fragment_rb3_ro">Piaţă</string>
+    <string name="add_attraction_fragment_rb4_eng">Park/forest</string>
+    <string name="add_attraction_fragment_rb4_ro">Parc/pădure</string>
+    <string name="add_attraction_fragment_rb5_eng">Beach</string>
+    <string name="add_attraction_fragment_rb5_ro">Plajă</string>
+    <string name="add_attraction_fragment_rb6_eng">Cave/cavern</string>
+    <string name="add_attraction_fragment_rb6_ro">Peşteră/grotă</string>
+    <string name="add_attraction_fragment_rb7_eng">View point</string>
+    <string name="add_attraction_fragment_rb7_ro">Punct de belvedere</string>
+
+    <string name="added_attraction_toast_eng">Attraction added!</string>
+    <string name="added_attraction_toast_ro">Obiectiv adăugat!</string>
+    <string name="deleted_attraction_toast_eng">Attraction deleted!</string>
+    <string name="deleted_attraction_toast_ro">Obiectiv şters!</string>
+    <string name="added_attractionWishlist_toast_eng">Added to wishlist!</string>
+    <string name="added_attractionWishlist_toast_ro">Adăugat la lista de vizitat!</string>
+    <string name="already_added_toast_eng">Already on your wishlist!</string>
+    <string name="already_added_toast_ro">Obiectivul este deja pe lista de vizitat!</string>
+    <string name="modified_attraction_toast_ro">Salvat!</string>
+    <string name="modified_attraction_toast_eng">Saved!</string>
+
+    <string name="attractions_number_eng">Total number of attractions:</string>
+    <string name="attractions_number_ro">Numărul total de atracţii turistice:</string>
+
+    <string name="attractions_wishlist_number_eng">Total number of attractions on your wishlist:</string>
+    <string name="attractions_wishlist_number_ro">Numărul total de atracţii turistice pe lista de vizitat:</string>
+
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/statisticsFragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="@dimen/padding"
+    android:background="@color/colorTertiary"
+    tools:context=".fragments.StatisticsFragment">
+
+    <TextView
+        android:id="@+id/textView_attractionsNumber"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:id="@+id/textView_attractionsWishlistNumber"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <com.github.mikephil.charting.charts.BarChart
+        android:id="@+id/barChart"
+        android:layout_marginTop="@dimen/padding"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/chartHeight" />
+
+</LinearLayout>
